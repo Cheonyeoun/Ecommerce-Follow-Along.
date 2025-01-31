@@ -1,33 +1,13 @@
  #ECommerce-Follow-Along
 
+
+
+##Milestone 1: Project Overview to summarize what was covered in the session.
+
 ##Project Overview
 
 This project will guide you through building a full-stack e-commerce web application using the MERN stack (MongoDB, Express.js, React.js, Node.js). You will learn how to implement key functionalities such as user authentication, product management, and order handling while gaining hands-on experience with REST APIs, database schema design, and frontend development with React.
 
-
-##MileStone-1:
-
-Initial Setup and User Authentication:  
-
-Task 1: Project Setup
-
--  Set up the Node.js backend with Express.js.
--  Initialize the React.js frontend.
--  Set up MongoDB for the database.
-Task 2: User Authentication
-
--  Implement user registration and login functionality.
--  Use JWT for secure authentication and session management.
--  Create a protected route for authenticated users.
-Task 3: Basic Frontend Layout
-
--  Design a basic, responsive UI using React.js and Tailwind CSS.
--  Create a login and registration pages.
-
-Task 4: REST API Development
-
-Build REST API endpoints for user authentication (signup, login).
-Test the authentication API using Postman or Insomnia.
 
 ###Key Features
 
@@ -49,3 +29,20 @@ Test the authentication API using Postman or Insomnia.
 -  Backend: Node.js, Express.js
 
 -  Database: MongoDB
+
+  
+### Milestone 2 : Project Setup and Login Page
+- Create a structured folder hierarchy for the project.
+- Set up a React app for the frontend.
+- Set up a Node.js server for the backend.
+- Using Tailwind CSS for streamlined styling.
+- Adding optional extensions for improving development efficiency.
+- Built a functional and styled Login Page for the frontend.
+
+### Milestone 3 :
+
+- Set up dedicated folders for organizing backend code effectively.
+- Initialized and configured a Node.js server to handle API requests.
+- Connected the application to MongoDB to store and manage data.
+- Implemented basic error handling to ensure smooth server operation.
+
