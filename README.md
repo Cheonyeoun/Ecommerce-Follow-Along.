@@ -29,7 +29,6 @@ This project will guide you through building a full-stack e-commerce web applica
 -  Backend: Node.js, Express.js
 
 -  Database: MongoDB
-
   
 ### Milestone 2 : Project Setup and Login Page
 - Create a structured folder hierarchy for the project.
