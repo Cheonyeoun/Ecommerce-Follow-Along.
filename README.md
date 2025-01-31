@@ -38,10 +38,3 @@ This project will guide you through building a full-stack e-commerce web applica
 -  Adding optional extensions for improving development efficiency.
 -  Built a functional and styled Login Page for the frontend.
 
-## Milestone 3 :
-
--  Set up dedicated folders for organizing backend code effectively.
--  Initialized and configured a Node.js server to handle API requests.
--  Connected the application to MongoDB to store and manage data.
--  Implemented basic error handling to ensure smooth server operation.
-
